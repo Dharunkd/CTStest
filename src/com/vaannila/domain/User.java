@@ -34,7 +34,7 @@ public class User {
 	public void setCountry(String country) {
 		this.country = country;
 	}
-	public String getAboutYou() {
+	public String getAboutYou("dharun") {
 		return aboutYou;
 	}
 	public void setAboutYou(String aboutYou) {
