@@ -35,7 +35,7 @@
 		</tr>
 		<tr>
 			<td>About you :</td>
-			<td><form:textarea path="about you" /></td>
+			<td><form:textarea path="aboutYou" /></td>
 		</tr>
 		<tr>
 			<td>Community :</td>
